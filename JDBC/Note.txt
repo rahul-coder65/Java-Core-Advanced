@@ -1,0 +1,8 @@
+----------------------Steps to connect Database to Java application----------------------------
+1 import package 
+2 Load and Register the Driver 
+3 Establish the connection 
+4 Create the statement 
+5 Execute the Query 
+6 process Result 
+7 Close 

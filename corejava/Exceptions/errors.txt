@@ -1,0 +1,7 @@
+Compiler Error : It is compile time error or syntactical error 
+
+Logical Error : It happens when developer has written calculation mistake or logical mistake. 
+
+Runtime Error : It is called exceptions, we need to handle the exceptions.
+
+9:25:00 
